@@ -1,0 +1,29 @@
+Welcome to Tic-Tac-Toe!
+Choose your symbol (X/O): X
+ 1 | 2 | 3
+---------
+ 4 | 5 | 6
+---------
+ 7 | 8 | 9
+Enter your move (1-9): 1
+AI is thinking...
+ X | 2 | 3
+---------
+ 4 | O | 6
+---------
+ 7 | 8 | 9
+Enter your move (1-9): 3
+AI is thinking...
+ X | 2 | X
+---------
+ 4 | O | 6
+---------
+ O | 8 | 9
+Enter your move (1-9): 2
+AI is thinking...
+ X | X | X
+---------
+ 4 | O | 6
+---------
+ O | 8 | 9
+X wins!
