@@ -1,0 +1,22 @@
+Welcome to Meghana's Smart Chatbot! Type something like 'add 2 and 3' or 'how are you?' (Type 'exit' to quit)
+
+You: hi
+Chatbot: Hello! How can I assist you today for calculations?
+
+You: how are you
+Chatbot: I'm doing well! Thanks for asking. How can I help you?
+
+You: add 10 and 5
+Chatbot: The result is 15.0
+
+You: subtract 4 from 12
+Chatbot: The result is 8.0
+
+You: divide 20 by 5
+Chatbot: The result is 4.0
+
+You: your name
+Chatbot: I'm Meghana's smart calculator chatbot.
+
+You: exit
+Chatbot: Goodbye! It was nice chatting with you! 👋
